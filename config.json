@@ -1,0 +1,16 @@
+{
+    "token":"",
+	"log":"1265638116685774891",
+    "sahip":"713778918238322719",
+    "desteksunucusu": "https://discord.gg/novaonline",
+    "bot-davet":"https://discord.com/oauth2/authorize?client_id=1265638876354052119&permissions=8&integration_type=0&scope=applications.commands+bot",
+    "bot-adi":"Nova",
+    "bot-id":"1265638876354052119",
+    "website":"https://oktaydev.com.tr",
+    "durum":"Nova Team",
+    "prefix":"!",
+    "": "Prefix sadece şu işinze yaricaktır. /customcommands komudu kullanıldığında özel komutları eklerken başına bu prefix gelir",
+    "mesajXp": 1,
+    "sesXp":2,
+    "levelXp": 99
+}
